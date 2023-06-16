@@ -23,7 +23,7 @@ https://github.com/ItaloKnox/myth/
 
 通过以下步骤安装补丁
 
-1. 下载源码，直接将```MYTH patch 18+ chs```中的所有文件粘贴到游戏根目录的```game```文件夹中并**覆盖原文件**；
+1. 下载release中的压缩包，解压后直接将```MYTH patch 18+ chs```中的所有文件粘贴到游戏根目录的```game```文件夹中并**覆盖原文件**；
 
 2. **备份**并删除game文件夹中的```scenario.rpa```。
 
